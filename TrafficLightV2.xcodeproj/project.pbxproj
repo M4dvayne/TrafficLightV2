@@ -11,6 +11,7 @@
 		2313341D28075287002EF87D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2313341C28075287002EF87D /* ContentView.swift */; };
 		2313341F2807528E002EF87D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2313341E2807528E002EF87D /* Assets.xcassets */; };
 		231334222807528E002EF87D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 231334212807528E002EF87D /* Preview Assets.xcassets */; };
+		231334292807534E002EF87D /* ColorizedCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 231334282807534E002EF87D /* ColorizedCircles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2313341C28075287002EF87D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2313341E2807528E002EF87D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		231334212807528E002EF87D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		231334282807534E002EF87D /* ColorizedCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorizedCircles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				2313341A28075287002EF87D /* TrafficLightV2App.swift */,
+				231334282807534E002EF87D /* ColorizedCircles.swift */,
 				2313341C28075287002EF87D /* ContentView.swift */,
 				2313341E2807528E002EF87D /* Assets.xcassets */,
 				231334202807528E002EF87D /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				2313341D28075287002EF87D /* ContentView.swift in Sources */,
 				2313341B28075287002EF87D /* TrafficLightV2App.swift in Sources */,
+				231334292807534E002EF87D /* ColorizedCircles.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
